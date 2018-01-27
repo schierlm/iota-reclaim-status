@@ -1,0 +1,8 @@
+body { font-family: Verdana, Arial, Helvetica, sans-serif;}
+table {border: 3px solid black; border-collapse: collapse; font-size: 90%}
+tr, th, td {border: 1px solid black; padding: 0.4em;}
+.g {color: #ccc;}
+.gg {color: #ddd;}
+.r { text-align: right;}
+dt {font-weight: bold; float:left; clear:left; width: 10em;}
+dd {margin-left: 10em; margin-bottom: 1em;}
