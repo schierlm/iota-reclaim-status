@@ -15,9 +15,11 @@ Summary of frozen funds
 - [2017-10-20: Funds frozen during second snapshot](2017-10-20-second-snapshot.md)
   * KERL Reuse: 42938444998536 IOTA
 - [2017-12-31: KYC Process required for some addresses](2017-12-31-kyc-process.md)
-  
+
 Extra "donations" to the IOTA foundation address
 ------------------------------------------------
+
+**Before first batch:**
 
     TQNQPB9OIPUZBEBCAJKFHKQCPYJVBIYIDHFZXNTFIIOCOJL9RPOZGJLMU9LTSXZNM9EODEXXCEWLZ9999    2017-12-21 21:26:23    1
     X9BPQJZYLNNGEZQE9EQB9XBLMYUUHPXSMPHF9ATMQZVKSIFKUIIBWSCDI9BI9GOHZJKPBWKLMABXZ9999    2017-12-18 23:37:31    404
@@ -30,8 +32,14 @@ Extra "donations" to the IOTA foundation address
     NHIIVMJ9YIXUVNXOMEQCVBKYQGJZMNFDFIBDJAGERAT99KZOMGCZLRGLHPKWDAZP9AKLVQRKKQDIA9999    2017-11-10 17:08:52    100
     VASQYFVYJL9AVBLEQCRSWF9HGVDEYHYRPXDBCGSQQ9YIPF9OLPVKFLZDIQWASPSTOCXXREC99JSY99999    2017-11-02 16:05:42    100
 
-
 Total amount: 323261057 IOTA
+
+
+**Between first and second batch:**
+
+    9ZGWR9XSDWBQJXUQTQEIV9ERPMEQEJPSZCIFYVICDLOTBYXPCOXCGB9QEYUWMUCKNL9VZYMPJYUJA9999    2018-02-06 19:48:09    2018
+
+Total amount: 2018 IOTA
 
 
 Reclaim processing
@@ -40,3 +48,6 @@ Reclaim processing
 - [First reclaim batch (2017-12-29 - 2018-01-10)](2018-01-10-first-reclaim-batch.md)
   * 1620 reclaims processed
   * 197184353970877 IOTA returned
+- [Second reclaim batch (2018-02-08 - 2018-02-12)](2018-02-12-second-reclaim-batch.md)
+  * 493	reclaims processed
+  * 13157741677668 IOTA returned

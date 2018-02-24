@@ -2,23 +2,23 @@
 Tracking pending and completed reclaims by the IOTA Foundation
 
 
-## Status (as of *2018-01-26*)
+## Status (as of *2018-02-12*)
 
 [Reclaim Status thread in HelloIOTA forum](https://forum.helloiota.com/1242/Reclaim-Status)
 
-**All reclaims that were filed before December 24th and had a unique destination seed have been processed in the first reclaim batch
-(running from 2017-12-29 to 2018-01-10). Reclaims with more than one destination seed are
+**All reclaims that were filed before February 7th and had a unique destination seed have been processed in the first two
+reclaim batches. Reclaims with more than one destination seed are
 [waiting for KYC](https://blog.iota.org/claims-and-reclaims-finalization-e692844c505a).
 Claims filed later are pending for the next batch.**
 
-**Since the IOTA Foundation has not released a list of addresses processed in the first batch yet,
+**Since the IOTA Foundation has not released a list of addresses processed in the first two batches yet,
 the data in the table below is not split between CURL and KERL addresses.**
 
 | Progress    | CURL Addresses |         CURL IOTA | KERL Addresses |        KERL IOTA | Total Addresses |        Total IOTA |
 | ---------   | --------------:| -----------------:| --------------:| ----------------:| ---------------:| -----------------:|
-| Unclaimed   |                |                   |                |                  |           7488  |  154204652322932  |
+| Unclaimed   |                |                   |                |                  |           6995  |  141046910645264  |
 | KYC         |            71  |     272283079967  |            49  |    102227712328  |            120  |     374510792295  |
-| Processed   |                |                   |                |                  |           1620  |  197184353970877  |
+| Processed   |                |                   |                |                  |           2113  |  210342095648545  |
 | *Total*     |         *7734* | *301620340961913* |         *1494* | *50143176124191* |          *9228* | *351763517086104* |
 
 
