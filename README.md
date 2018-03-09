@@ -2,23 +2,23 @@
 Tracking pending and completed reclaims by the IOTA Foundation
 
 
-## Status (as of *2018-02-12*)
+## Status (as of *2018-02-27*)
 
 [Reclaim Status thread in HelloIOTA forum](https://forum.helloiota.com/1242/Reclaim-Status)
 
-**All reclaims that were filed before February 7th and had a unique destination seed have been processed in the first two
+**All reclaims that were filed before February 27th and had a unique destination seed have been processed in the first three
 reclaim batches. Reclaims with more than one destination seed are
 [waiting for KYC](https://blog.iota.org/claims-and-reclaims-finalization-e692844c505a).
 Claims filed later are pending for the next batch.**
 
-**Since the IOTA Foundation has not released a list of addresses processed in the first two batches yet,
+**Since the IOTA Foundation has not released a list of addresses processed in the first three batches yet,
 the data in the table below is not split between CURL and KERL addresses.**
 
 | Progress    | CURL Addresses |         CURL IOTA | KERL Addresses |        KERL IOTA | Total Addresses |        Total IOTA |
 | ---------   | --------------:| -----------------:| --------------:| ----------------:| ---------------:| -----------------:|
-| Unclaimed   |                |                   |                |                  |           6995  |  141046910645264  |
+| Unclaimed   |                |                   |                |                  |           6923  |   69850231059012  |
 | KYC         |            71  |     272283079967  |            49  |    102227712328  |            120  |     374510792295  |
-| Processed   |                |                   |                |                  |           2113  |  210342095648545  |
+| Processed   |                |                   |                |                  |           2185  |  281538775234797  |
 | *Total*     |         *7734* | *301620340961913* |         *1494* | *50143176124191* |          *9228* | *351763517086104* |
 
 
