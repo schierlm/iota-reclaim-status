@@ -54,3 +54,6 @@ Reclaim processing
 - [Third reclaim batch (2018-02-27)](2018-02-27-third-reclaim-batch.md)
   * 72 reclaims processed
   * 71196679586252 IOTA returned
+- [Fourth reclaim batch (2018-03-29)](2018-03-29-fourth-reclaim-batch.md)
+  * 96 reclaims processed
+  * 20379623978219 IOTA returned
