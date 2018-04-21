@@ -1,3 +1,5 @@
+[Do you think this information is useful? Collecting it took me some time. [Show your appreciation!](https://github.com/schierlm/donate-iota)]
+
 # iota-reclaim-status
 Tracking pending and completed reclaims by the IOTA Foundation
 
