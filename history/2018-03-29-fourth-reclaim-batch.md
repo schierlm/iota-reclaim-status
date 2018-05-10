@@ -1,7 +1,7 @@
 Fourth reclaim batch (2018-03-29)
 =================================
 
-This batch contains all reclaims that were filed between February 27th 2018 and Marth 29th 2018.
+This batch contains all reclaims that were filed between February 27th 2018 and March 29th 2018.
 
 Sources:
 

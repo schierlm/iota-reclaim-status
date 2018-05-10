@@ -17,6 +17,7 @@ Summary of frozen funds
 - [2017-10-20: Funds frozen during second snapshot](2017-10-20-second-snapshot.md)
   * KERL Reuse: 42938444998536 IOTA
 - [2017-12-31: KYC Process required for some addresses](2017-12-31-kyc-process.md)
+- [2018-05-09: KYC Process required for more addresses](2018-05-09-kyc-process-2.md)
 
 Extra "donations" to the IOTA foundation address
 ------------------------------------------------
@@ -59,3 +60,6 @@ Reclaim processing
 - [Fourth reclaim batch (2018-03-29)](2018-03-29-fourth-reclaim-batch.md)
   * 96 reclaims processed
   * 20379623978219 IOTA returned
+- [Fifth reclaim batch (2018-04-19)](2018-04-19-fifth-reclaim-batch.md)
+  * 4 reclaims processed
+  * 313718000002 IOTA returned
