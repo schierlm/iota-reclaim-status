@@ -4,7 +4,7 @@
 Tracking pending and completed reclaims by the IOTA Foundation
 
 
-## Status (as of *2018-05-09*)
+## Status (as of *2018-06-15* after six batches)
 
 [Reclaim Status thread in HelloIOTA forum](https://forum.helloiota.com/1242/Reclaim-Status)
 
@@ -19,9 +19,9 @@ an address has already been processed or not.**
 
 | Progress    | CURL Addresses |         CURL IOTA | KERL Addresses |        KERL IOTA | Total Addresses |        Total IOTA |
 | ---------   | --------------:| -----------------:| --------------:| ----------------:| ---------------:| -----------------:|
-| Unclaimed   |                |                   |                |                  |           6770  |   48611989162651  |
+| Unclaimed   |                |                   |                |                  |           6685  |   46472443617715  |
 | KYC         |           105  |     368115527282  |            68  |    551295183153  |            173  |     919410710435  |
-| Processed   |                |                   |                |                  |           2285  |  302232117213018  |
+| Processed   |                |                   |                |                  |           2370  |  304371662757954  |
 | *Total*     |         *7734* | *301620340961913* |         *1494* | *50143176124191* |          *9228* | *351763517086104* |
 
 
