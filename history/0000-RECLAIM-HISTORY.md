@@ -67,3 +67,7 @@ Reclaim processing
   * Sent from a separate address not related to the reclaim
   * 85 reclaims processed
   * 2139545544936 IOTA returned
+- [Seventh reclaim batch (2018-08-03)](2018-08-03-seventh-reclaim-batch.md)
+  * Sent from a separate address not related to the reclaim
+  * 59 reclaims processed
+  * 998282636929 IOTA returned
