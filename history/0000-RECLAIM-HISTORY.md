@@ -19,6 +19,8 @@ Summary of frozen funds
 - [2017-12-31: KYC Process required for some addresses](2017-12-31-kyc-process.md)
 - [2018-05-09: KYC Process required for more addresses](2018-05-09-kyc-process-2.md)
 
+**Grand Total: 351763517086104 IOTA**
+
 Extra "donations" to the IOTA foundation address
 ------------------------------------------------
 
@@ -37,6 +39,10 @@ Extra "donations" to the IOTA foundation address
 
 Total amount: 323261057 IOTA
 
+**During [first batch](2018-01-10-first-reclaim-batch.md):**
+
+Total amount: 8 IOTA
+
 
 **Between first and second batch:**
 
@@ -45,12 +51,43 @@ Total amount: 323261057 IOTA
 Total amount: 2018 IOTA
 
 
+**Between fifth and seventh batch:**
+
+    CLAXTIGCRYDRKALSNMXDBVOTIWEGSZNUTNHPSFUSQPVMLOVCSYOZNODGDDHWOYTBXVDLYDYBEKHFA9999    2018-05-30 01:46:31    8
+
+Total amount: 8 IOTA
+
+
+**Between seventh and eighth batch:**
+
+    GRLLNNXKMXTFTESYFF9NDSUKSWYRRBESNN9LPIRQYHTAEQUFOZZEBJBNXDEZDSVIR9GLBWD9YCIYA9999    2018-07-30 15:04:53    67062482061306
+    RMQALNJDPWFFDD9WIZTLNXYMCNPXLQVJXXKGJWSYDWMUMSC99DJZFKU9NTMTBHQKKEOHGLZGXYYGZ9999    2018-07-30 14:37:00    3
+    QJYRUSBZJDJWZWSODRDJDGAVUTCWHBWCIUWHXFDHHINYZXTXDQSUSWRSLOQCAQNAJRZV9WLUEPDJ99999    2018-07-30 14:36:29    72
+    DYUU9DWEZRHUXMEZSSVNISEKFF9VCQXZIPAHIZOPMERFZATNNUMYBTZZ9WAZMCQEPHGIBPSFCPZCZ9999    2018-07-30 14:36:01    92225
+
+    [to old address XTMGMPWEFOQPZEQDJAFZSYGONCMVKYOHFMKVPBOGRQNOGLIMQEWEAPCMILUHECVPCO9WQSPFJVMQAZJND]
+    EC9ZGZHBWDWPSUIVSDRS9OSGLF9FOVRO9HBTOTEMPZDVGVUIWHGUOXXM9QIQTGAJSQDANOETACIJA9999    2018-01-27 21:51:08    1
+
+Total amount: 67062482153607 IOTA
+
+
+**Between eighth and ninth batch:**
+
+    SIALZMVQRHEZESAGJ9EUBPJUR9CQWZFHCBBLFUZEPLVCLJHOJWRLZTPHUFTVRLSEYDBMQXBCWLDW99999 2018-08-28    3
+    SMZUCPL9SO9EVKLVQMATBCVQLNSE9MIBJMWJYJYEWZJMFRAQCPKLECOEEUZBNHQYSROXIZZFGFEHZ9999 2018-08-22    1
+
+Total amount: 4 IOTA
+
+
+**Grand total: 67062805416702 IOTA**
+
 Reclaim processing
 ------------------
 
 - [First reclaim batch (2017-12-29 - 2018-01-10)](2018-01-10-first-reclaim-batch.md)
   * 1620 reclaims processed
   * 197184353970877 IOTA returned
+  * 8 IOTA "donations" accumulated
 - [Second reclaim batch (2018-02-08 - 2018-02-12)](2018-02-12-second-reclaim-batch.md)
   * 493 reclaims processed
   * 13157741677668 IOTA returned
@@ -67,7 +104,14 @@ Reclaim processing
   * Sent from a separate address not related to the reclaim
   * 85 reclaims processed
   * 2139545544936 IOTA returned
-- [Seventh reclaim batch (2018-08-03)](2018-08-03-seventh-reclaim-batch.md)
-  * Sent from a separate address not related to the reclaim
+- [Seventh reclaim batch (2018-07-01)](2018-07-01-seventh-reclaim-batch.md)
+  * 18 reclaims processed
+  * 532524152542 IOTA returned
+- [Eighth reclaim batch (2018-08-03)](2018-08-03-eighth-reclaim-batch.md)
   * 59 reclaims processed
   * 998282636929 IOTA returned
+- [Ninth reclaim batch (2018-08-31)](2018-08-31-ninth-reclaim-batch.md)
+  * 36 reclaims processed
+  * 105387208553137 IOTA returned
+
+**Grand total: 411289678100562 IOTA in 2483 reclaims**

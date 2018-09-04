@@ -4,24 +4,28 @@
 Tracking pending and completed reclaims by the IOTA Foundation
 
 
-## Status (as of *2018-06-15* after six batches)
+## Status (as of *2018-08-31* after nine batches)
 
 [Reclaim Status thread in HelloIOTA forum](https://forum.helloiota.com/1242/Reclaim-Status)
 
-**All reclaims that were filed before April 29th and had a unique destination seed have been processed in the first seven
+**All reclaims that were filed before July 9th and had a unique destination seed have been processed in the first nine
 reclaim batches. Reclaims with more than one destination seed can
 [perform KYC now](https://blog.iota.org/iota-reclaim-identification-verification-process-e316647e06e6).
 Claims filed later are pending for the next batch.**
 
-**Since the IOTA Foundation has not released a list of addresses processed in the first four batches yet,
+**Since the IOTA Foundation has not released a list of addresses processed in the first nine batches yet,
 the data in the table below is not split between CURL and KERL addresses. Also, the API cannot tell whether
 an address has already been processed or not.**
 
+*When you look at the table below, you will notice that more IOTA have been paid back (processed) than have been
+frozen. Dom explained this in Discord: "there are several funds that are mixed together and that were also split",
+probably referring to reclaims from the transition to the IOTA protocol which were paid from the same funds.*
+
 | Progress    | CURL Addresses |         CURL IOTA | KERL Addresses |        KERL IOTA | Total Addresses |        Total IOTA |
 | ---------   | --------------:| -----------------:| --------------:| ----------------:| ---------------:| -----------------:|
-| Unclaimed   |                |                   |                |                  |           6626  |   45474160980786  |
+| Unclaimed   |                |                   |                |                  |           6572  |  -60445571724893  |
 | KYC         |           105  |     368115527282  |            68  |    551295183153  |            173  |     919410710435  |
-| Processed   |                |                   |                |                  |           2429  |  305369945394883  |
+| Processed   |                |                   |                |                  |           2483  |  411289678100562  |
 | *Total*     |         *7734* | *301620340961913* |         *1494* | *50143176124191* |          *9228* | *351763517086104* |
 
 
