@@ -116,5 +116,8 @@ Reclaim processing
 - [Tenth reclaim batch (2018-09-22)](2018-09-22-tenth-reclaim-batch.md)
   * 73 reclaims processed
   * 5871883024893 IOTA returned
+- [Small reclaims (2018-10-28 to 2018-11-26)](2018-10-28-small-reclaims.md)
+  * 5 reclaims processed in 3 transactions
+  * 3601309302479 IOTA returned
 
-**Grand total: 417161561125455 IOTA in 2556 reclaims**
+**Grand total: 420762870427934 IOTA in 2561 reclaims**
