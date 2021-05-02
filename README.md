@@ -3,6 +3,10 @@
 # iota-reclaim-status
 Tracking pending and completed reclaims by the IOTA Foundation
 
+## Updated Status
+
+Against their promises, the IOTA foundation did not publish details about the later reclaims to make it possible to update this status.
+I'll give up and archive it now.
 
 ## Status (as of *2018-08-31* after nine batches)
 
